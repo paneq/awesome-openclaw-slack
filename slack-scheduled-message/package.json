@@ -1,0 +1,17 @@
+{
+  "name": "@openclaw/slack-scheduled-message",
+  "version": "2026.2.2",
+  "description": "OpenClaw Slack scheduled message plugin",
+  "type": "module",
+  "dependencies": {
+    "@slack/web-api": "^7.13.0"
+  },
+  "devDependencies": {
+    "openclaw": "workspace:*"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

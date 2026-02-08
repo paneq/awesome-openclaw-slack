@@ -1,0 +1,8 @@
+{
+  "id": "slack-scheduled-message",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
