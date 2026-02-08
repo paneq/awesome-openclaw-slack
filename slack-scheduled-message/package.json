@@ -4,6 +4,7 @@
   "description": "OpenClaw Slack scheduled message plugin",
   "type": "module",
   "dependencies": {
+    "@sinclair/typebox": "^0.34.0",
     "@slack/web-api": "^7.13.0"
   },
   "devDependencies": {
